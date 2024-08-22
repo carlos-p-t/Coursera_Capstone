@@ -26,6 +26,6 @@ As a preparation for the project, an assignment was given which was divided in 3
 
 The Capstone Project is also divided in two main parts:
 
-**[- Part 1:]**(https://github.com/carlos-p-t/Coursera_Capstone/blob/main/Capstone%20Project%20(Part%201).ipynb) This first part introduces the business problem as well as the origin of data used for analysis.
+[**- Part 1:**](https://github.com/carlos-p-t/Coursera_Capstone/blob/main/Capstone%20Project%20(Part%201).ipynb) This first part introduces the business problem as well as the origin of data used for analysis.
 
-**[- Part 2:]**(https://github.com/carlos-p-t/Coursera_Capstone/blob/main/Capstone%20Project%20(Part%202).ipynb) The second part encompasses all parts of my capstone project.
+[**- Part 2:**](https://github.com/carlos-p-t/Coursera_Capstone/blob/main/Capstone%20Project%20(Part%202).ipynb) The second part encompasses all parts of my capstone project.
