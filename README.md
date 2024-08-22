@@ -16,11 +16,11 @@ More details about the project can be found in [this file](https://github.com/ca
 
 As a preparation for the project, an assignment was given which was divided in 3 parts:
 
-**[- Part 1:]**(https://github.com/carlos-p-t/Coursera_Capstone/blob/main/W3_Assignment_Part1.ipynb) A practice of segmenting and clustering neighborhoods from data obtained from internet. The exercise consisted on retrieving data by scrapping a website, and visualize its contents.
+[**- Part 1:**](https://github.com/carlos-p-t/Coursera_Capstone/blob/main/W3_Assignment_Part1.ipynb) A practice of segmenting and clustering neighborhoods from data obtained from internet. The exercise consisted on retrieving data by scrapping a website, and visualize its contents.
 
-**[- Part 2:]**(https://github.com/carlos-p-t/Coursera_Capstone/blob/main/W3_Assignment_Part2.ipynb) Continuing with the exercise, this part focused on adding geodata (latitude, longitude) to the data early obtained.
+[**- Part 2:**](https://github.com/carlos-p-t/Coursera_Capstone/blob/main/W3_Assignment_Part2.ipynb) Continuing with the exercise, this part focused on adding geodata (latitude, longitude) to the data early obtained.
 
-**[- Part 3:]**(https://github.com/carlos-p-t/Coursera_Capstone/blob/main/W3_Assignment_Part3.ipynb) Last part of the exercise consisted on analyzing the neighborhoods obtained from the previous data, as well as display the different venues these neighborhoods had. A further analysis of neighborhood clusters is also done.
+[**- Part 3:**](https://github.com/carlos-p-t/Coursera_Capstone/blob/main/W3_Assignment_Part3.ipynb) Last part of the exercise consisted on analyzing the neighborhoods obtained from the previous data, as well as display the different venues these neighborhoods had. A further analysis of neighborhood clusters is also done.
 
 ## Capstone Project
 
