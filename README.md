@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate Coursera Capstone
+# IBM Data Science Professional Certificate - Coursera Capstone Project
 
 Welcome to my IBM Data Science Capstone Project repository!
 
